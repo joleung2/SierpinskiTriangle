@@ -1,3 +1,9 @@
+public void setup()
+{
+  size(600,600);
+}
+int x = 300;
+int y = 300;
 int len = 600;
 public void draw()
 {
